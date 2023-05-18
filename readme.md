@@ -1,0 +1,1 @@
+clase de programación orientada a objetos 1, uso de ecmas 5
